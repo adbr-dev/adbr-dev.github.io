@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "35AK62L77K.ai.corca.webviewMock",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
