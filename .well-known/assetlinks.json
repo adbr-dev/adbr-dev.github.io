@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "ai.corca.webview_mock",
+            "sha256_cert_fingerprints": [
+                "4B:30:5B:A6:79:16:F8:B8:0D:DA:D6:35:81:24:19:73:F7:09:6D:0F:B1:FB:F8:33:1C:4E:3C:CC:E6:A8:A6:25"
+            ]
+        }
+    }
+]
